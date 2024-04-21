@@ -1,0 +1,5 @@
+matplotlib==3.8.2
+torch==2.1.1+cu118
+torchvision==0.16.1+cu118
+tqdm==4.66.1
+wget==3.2
